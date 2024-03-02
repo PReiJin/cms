@@ -1,4 +1,4 @@
-# go-react-admin
+# CMS
 
 like gin vue admin but better.
 
